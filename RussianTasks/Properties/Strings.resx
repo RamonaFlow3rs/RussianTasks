@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="error_text" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="error_cannot_find_config_file" xml:space="preserve">
+    <value>Не найден файл заданий</value>
+  </data>
+  <data name="error_cannot_find_config_file_with_name" xml:space="preserve">
+    <value>Не найден файл заданий {0}</value>
+  </data>
+  <data name="hint_add_to_my_vocabulary" xml:space="preserve">
+    <value>Добавить в мой словарь</value>
+  </data>
+  <data name="exercise_window_button_finish" xml:space="preserve">
+    <value>Результаты</value>
+  </data>
+  <data name="accents_section_name_1" xml:space="preserve">
+    <value>Существительные</value>
+  </data>
+  <data name="accents_section_name_3" xml:space="preserve">
+    <value>Глаголы</value>
+  </data>
+  <data name="section_name_shuffle" xml:space="preserve">
+    <value>Всё подряд</value>
+  </data>
+  <data name="section_name_vocabulary" xml:space="preserve">
+    <value>Мой словарь</value>
+  </data>
+  <data name="accents_section_name_4" xml:space="preserve">
+    <value>Прилагательные</value>
+  </data>
+  <data name="accents_section_name_5" xml:space="preserve">
+    <value>Причастия</value>
+  </data>
+  <data name="accents_section_name_6" xml:space="preserve">
+    <value>Деепричастия</value>
+  </data>
+  <data name="accents_section_name_7" xml:space="preserve">
+    <value>Наречия</value>
+  </data>
+  <data name="window_title_vocabulary" xml:space="preserve">
+    <value>Мой словарь</value>
+  </data>
+  <data name="voc_window_button_print" xml:space="preserve">
+    <value>Печать</value>
+  </data>
+  <data name="voc_window_button_study" xml:space="preserve">
+    <value>Прорешать</value>
+  </data>
+  <data name="vocabulary_hint" xml:space="preserve">
+    <value>Добавляйте сюда слова, вызывающие у Вас затруднения</value>
+  </data>
+  <data name="vocabulary_remove_word_text" xml:space="preserve">
+    <value>Вы действительно хотите убрать слово "{0}" из словаря?</value>
+  </data>
+  <data name="vocabulary_remove_word_title" xml:space="preserve">
+    <value>Убрать слово из моего словаря</value>
+  </data>
+  <data name="error_no_words_in_vocabulary" xml:space="preserve">
+    <value>В вашем словаре пока еще нет слов!</value>
+  </data>
+  <data name="vocabulary_print_alert_message" xml:space="preserve">
+    <value>Вы хотите распечатать содержимое словаря или сохранить в файл?</value>
+  </data>
+  <data name="vocabulary_print_alert_print_text" xml:space="preserve">
+    <value>Печать</value>
+  </data>
+  <data name="vocabulary_print_alert_save_text" xml:space="preserve">
+    <value>Сохранить в файл</value>
+  </data>
+  <data name="vocabulary_print_alert_title" xml:space="preserve">
+    <value>Печать моего словаря</value>
+  </data>
+  <data name="activation_window_button_text" xml:space="preserve">
+    <value>Применить</value>
+  </data>
+  <data name="activation_window_enter_key_message" xml:space="preserve">
+    <value>Введите имя пользователя и ключ</value>
+  </data>
+  <data name="activation_window_title" xml:space="preserve">
+    <value>Активация программы</value>
+  </data>
+  <data name="activation_window_wait_message" xml:space="preserve">
+    <value>Пожалуйста, подождите</value>
+  </data>
+  <data name="activation_error_invalid_key" xml:space="preserve">
+    <value>Невалидный ключ</value>
+  </data>
+  <data name="activation_error_no_internet_connection" xml:space="preserve">
+    <value>Для активации программы необходимо соединение с Интернетом</value>
+  </data>
+  <data name="activation_window_success" xml:space="preserve">
+    <value>Программа успешно активирована!</value>
+  </data>
+  <data name="accent_exercise_exit_message" xml:space="preserve">
+    <value>Вы действительно хотите завершить упражнение?</value>
+  </data>
+  <data name="accent_exercise_exit_title" xml:space="preserve">
+    <value>Завершить упражнение</value>
+  </data>
+  <data name="cancel_text" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="finish_exercise_text" xml:space="preserve">
+    <value>Завершить</value>
+  </data>
+  <data name="preloader_title" xml:space="preserve">
+    <value>Подготовка к ЕГЭ\r\nпо русскому языку</value>
+  </data>
+  <data name="button_ok_text" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="editor_access_window_error_invalid_key" xml:space="preserve">
+    <value>Неверный ключ доступа</value>
+  </data>
+  <data name="editor_access_window_message" xml:space="preserve">
+    <value>Введите ключ доступа к редактору</value>
+  </data>
+  <data name="editor_access_window_title" xml:space="preserve">
+    <value>Доступ к редактору упражнений</value>
+  </data>
+  <data name="exercise_editor_title" xml:space="preserve">
+    <value>Редактор упражнений</value>
+  </data>
+  <data name="exercise_name_accents" xml:space="preserve">
+    <value>Ударения в словах (№4)</value>
+  </data>
+  <data name="next_version_adv" xml:space="preserve">
+    <value>Новые упражнения будут доступны\r\nв следующих версиях</value>
+  </data>
+  <data name="tasks_window_message" xml:space="preserve">
+    <value>Выберите задание из списка:</value>
+  </data>
+  <data name="tasks_window_title" xml:space="preserve">
+    <value>Список упражнений</value>
+  </data>
+  <data name="preloader_copyright_text" xml:space="preserve">
+    <value>Репетитор Ксения Куликова</value>
+  </data>
+  <data name="hint_remove_from_my_vocabulary" xml:space="preserve">
+    <value>Убрать из моего словаря</value>
+  </data>
+  <data name="exercise_window_button_continue" xml:space="preserve">
+    <value>Далее</value>
+  </data>
+  <data name="exercise_window_button_skip" xml:space="preserve">
+    <value>Пропустить</value>
+  </data>
+  <data name="back_text" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="exercise_name_spelling" xml:space="preserve">
+    <value>Орфография</value>
+  </data>
+  <data name="exercise_window_button_answer" xml:space="preserve">
+    <value>Ответить</value>
+  </data>
+  <data name="select_section_window_button_back" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="select_section_window_title_accents" xml:space="preserve">
+    <value>Части речи</value>
+  </data>
+  <data name="select_section_window_title_default" xml:space="preserve">
+    <value>Выберите раздел</value>
+  </data>
+  <data name="accents_section_name_101" xml:space="preserve">
+    <value>Мой словарь</value>
+  </data>
+  <data name="spelling_section_name_1" xml:space="preserve">
+    <value>№8 (гласные в корне)</value>
+  </data>
+  <data name="spelling_section_name_2" xml:space="preserve">
+    <value>№9 (приставки слов)</value>
+  </data>
+  <data name="exercise_name_repeating" xml:space="preserve">
+    <value>Слитное/раздельное написание</value>
+  </data>
+  <data name="exercise_window_progress_label_template" xml:space="preserve">
+    <value>Прогресс: {0}/{1}</value>
+  </data>
+  <data name="repeating_section_name_1" xml:space="preserve">
+    <value>№12 (НЕ/НИ слитно и раздельно)</value>
+  </data>
+  <data name="repeating_section_name_2" xml:space="preserve">
+    <value>№13 (слитно/раздельно/дефис)</value>
+  </data>
+  <data name="spelling_section_name_3" xml:space="preserve">
+    <value>№10 (суффиксы слов)</value>
+  </data>
+  <data name="spelling_section_name_4" xml:space="preserve">
+    <value>№11 (глаголы и причастия)</value>
+  </data>
+  <data name="spelling_section_name_5" xml:space="preserve">
+    <value>№14 (Н и НН в словах)</value>
+  </data>
+  <data name="exit_app_cancel_button" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="exit_app_exit_button" xml:space="preserve">
+    <value>Завершить</value>
+  </data>
+  <data name="exit_app_message" xml:space="preserve">
+    <value>Вы действительно хотите завершить работу с программой?</value>
+  </data>
+  <data name="exit_app_tittle" xml:space="preserve">
+    <value>Выход из программы</value>
+  </data>
+  <data name="activation_error_server_problem" xml:space="preserve">
+    <value>Ошибка при обращении к серверу активации</value>
+  </data>
+  <data name="update_application_window_button_cancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="update_application_window_button_update" xml:space="preserve">
+    <value>Обновить</value>
+  </data>
+  <data name="update_application_window_message" xml:space="preserve">
+    <value>Доступно обновление программы до версии v{0} (текущая версия v{1}). Скачать обновление?</value>
+  </data>
+  <data name="update_application_window_title" xml:space="preserve">
+    <value>Внимание</value>
+  </data>
+  <data name="update_application_window_error_button_cancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="update_application_window_error_button_retry" xml:space="preserve">
+    <value>Повторить</value>
+  </data>
+  <data name="update_application_window_error_message" xml:space="preserve">
+    <value>При загрузке обновления произошла ошибка</value>
+  </data>
+  <data name="update_application_window_error_title" xml:space="preserve">
+    <value>Внимание</value>
+  </data>
+  <data name="accents_section_name_2" xml:space="preserve">
+    <value>Неподвижное ударение</value>
+  </data>
+  <data name="activation_window_field_1" xml:space="preserve">
+    <value>Имя пользователя</value>
+  </data>
+  <data name="activation_window_field_2" xml:space="preserve">
+    <value>Ключ активации</value>
+  </data>
+  <data name="activation_error_activated_on_another_machine" xml:space="preserve">
+    <value>Эта программа была активирована для другого устройства</value>
+  </data>
+  <data name="activation_error_key_is_already_used" xml:space="preserve">
+    <value>Этот ключ уже использован на другом устройстве</value>
+  </data>
+  <data name="exercise_name_variant" xml:space="preserve">
+    <value>Грамматические нормы</value>
+  </data>
+  <data name="variant_section_name_1" xml:space="preserve">
+    <value>Правильная форма слова</value>
+  </data>
+  <data name="variant_section_name_2" xml:space="preserve">
+    <value>Паронимы</value>
+  </data>
+</root>

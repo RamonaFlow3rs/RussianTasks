@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianTasks", "RussianTasks\RussianTasks.csproj", "{B88EA928-02B9-42B4-B7EF-8E91202F9B1D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RussianTasksInstaller", "RussianTasksInstaller\RussianTasksInstaller.vdproj", "{9241C088-C120-4AB8-9052-BF8BE0C34DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallActions", "InstallActions\InstallActions.csproj", "{C007299A-5CFD-4FBB-9415-222077A581CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeysGenerator", "KeysGenerator\KeysGenerator.csproj", "{408C50B5-7650-4B18-9F56-833EC8E91069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88EA928-02B9-42B4-B7EF-8E91202F9B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88EA928-02B9-42B4-B7EF-8E91202F9B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88EA928-02B9-42B4-B7EF-8E91202F9B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88EA928-02B9-42B4-B7EF-8E91202F9B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9241C088-C120-4AB8-9052-BF8BE0C34DA2}.Debug|Any CPU.ActiveCfg = Debug
+		{9241C088-C120-4AB8-9052-BF8BE0C34DA2}.Release|Any CPU.ActiveCfg = Release
+		{C007299A-5CFD-4FBB-9415-222077A581CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C007299A-5CFD-4FBB-9415-222077A581CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C007299A-5CFD-4FBB-9415-222077A581CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C007299A-5CFD-4FBB-9415-222077A581CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408C50B5-7650-4B18-9F56-833EC8E91069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408C50B5-7650-4B18-9F56-833EC8E91069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408C50B5-7650-4B18-9F56-833EC8E91069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408C50B5-7650-4B18-9F56-833EC8E91069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

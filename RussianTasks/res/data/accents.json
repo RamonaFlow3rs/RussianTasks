@@ -1,0 +1,3814 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "аэропорта",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "аэропортов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "аэропорту",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "аэропортам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "аэропортом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "аэропортами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "аэропорте",
+      "additions": [
+        {
+          "text": "об",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "аэропортах",
+      "additions": [
+        {
+          "text": "об",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "банты"
+    },
+    {
+      "id": 10,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "банта",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "бантов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "банту",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "бантам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "бантом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "бантами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "банте",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "бантах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "бухгалтеры"
+    },
+    {
+      "id": 19,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "бухгалтера",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "бухгалтеров",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "бухгалтерам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "бухгалтером",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "бухгалтерами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "бухгалтерах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "возрасты"
+    },
+    {
+      "id": 26,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "возрастов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "возрастам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "возрастом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "возрастами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "возрасте",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "возрастах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договоры"
+    },
+    {
+      "id": 33,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договора",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договоров",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договору",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договорам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договором",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договорами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договоре",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "договорах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "иксы"
+    },
+    {
+      "id": 42,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "икса",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "иксов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "иксу",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "иксам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "иксом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "иксами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "иксе",
+      "additions": [
+        {
+          "text": "об",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "section": 2,
+      "accentPosition": 1,
+      "word": "иксах",
+      "additions": [
+        {
+          "text": "об",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инженеры"
+    },
+    {
+      "id": 51,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инженеров",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инженерам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инженером",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инженерами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инженерах",
+      "additions": [
+        {
+          "text": "об",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "инспекторы"
+    },
+    {
+      "id": 57,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "инспекторов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "инспекторам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "инспектором",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "инспекторами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "инспекторах",
+      "additions": [
+        {
+          "text": "об",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инструкторы"
+    },
+    {
+      "id": 63,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инструкторов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инструкторам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инструктором",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инструкторами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "инструкторах",
+      "additions": [
+        {
+          "text": "об",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "конусы"
+    },
+    {
+      "id": 69,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "конусов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "конусам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "конусом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "конусами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "конусах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремни"
+    },
+    {
+      "id": 75,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремня",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремней",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремню",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремням",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремнем",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремнями",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремне",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "section": 2,
+      "accentPosition": 6,
+      "word": "кремнях",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "краны"
+    },
+    {
+      "id": 84,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "крана",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "кранов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "крану",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "кранам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "краном",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "кранами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "кране",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "кранах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "лекторы"
+    },
+    {
+      "id": 93,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "лекторов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "лекторам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "лектором",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "лекторами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "лекторах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжня"
+    },
+    {
+      "id": 99,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжни",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжне",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжню",
+      "additions": [
+        {
+          "text": "про",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжней",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжне",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжни",
+      "additions": [
+        {
+          "text": "ровные",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжней",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжням",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжнями",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "section": 2,
+      "accentPosition": 5,
+      "word": "лыжнях",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "местностей",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "местностям",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "местностями",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "местностях",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "section": 2,
+      "accentPosition": 7,
+      "word": "новостей",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "section": 2,
+      "accentPosition": 7,
+      "word": "новостям",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "section": 2,
+      "accentPosition": 7,
+      "word": "новостями",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "section": 2,
+      "accentPosition": 7,
+      "word": "новостях",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "ногтя",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "ногтю",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "ногтем",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "ногте",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "порта",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "порту",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "портом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "порте",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "почестей",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "почестям",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "почестями",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "почестях",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "section": 2,
+      "accentPosition": 8,
+      "word": "простыня"
+    },
+    {
+      "id": 130,
+      "section": 2,
+      "accentPosition": 8,
+      "word": "простыни",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "section": 2,
+      "accentPosition": 8,
+      "word": "простыне",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "section": 2,
+      "accentPosition": 8,
+      "word": "простыню",
+      "additions": [
+        {
+          "text": "про",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "section": 2,
+      "accentPosition": 8,
+      "word": "простыней",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "section": 2,
+      "accentPosition": 8,
+      "word": "простыне",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "сироты",
+      "additions": [
+        {
+          "text": "бедные",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "сирот",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "сиротам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "сирот",
+      "additions": [
+        {
+          "text": "про",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "сиротами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "сиротах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "склады"
+    },
+    {
+      "id": 142,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "склада",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "складов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "складу",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "складам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "складом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "складами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "складе",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "складах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средства",
+      "additions": [
+        {
+          "text": "разные",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средства",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средств",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средству",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средствам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средством",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средствами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средстве",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "средствах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуи",
+      "additions": [
+        {
+          "text": "белые",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуи",
+      "additions": [
+        {
+          "text": "без одной",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуй",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуе",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуям",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуей",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуями",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуе",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "section": 2,
+      "accentPosition": 3,
+      "word": "статуях",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "торты"
+    },
+    {
+      "id": 169,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "торта",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "тортов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "торту",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "тортам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "тортом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "тортами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "торте",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "тортах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфля",
+      "additions": [
+        {
+          "text": "одна",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфли",
+      "additions": [
+        {
+          "text": "две",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфли",
+      "additions": [
+        {
+          "text": "без одной",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфель",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфле",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфлям",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфлей",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфлями",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфле",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "туфлях",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "челюстей",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "челюстям",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "челюстями",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "челюстях",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "шарфы"
+    },
+    {
+      "id": 192,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "шарфа",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "шарфов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "шарфам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "шарфом",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "шарфами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "шарфе",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "section": 2,
+      "accentPosition": 2,
+      "word": "шарфах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "шоферы"
+    },
+    {
+      "id": 200,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "шоферов",
+      "additions": [
+        {
+          "text": "без",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "шоферам",
+      "additions": [
+        {
+          "text": "к",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "шоферами",
+      "additions": [
+        {
+          "text": "за",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "section": 2,
+      "accentPosition": 4,
+      "word": "шоферах",
+      "additions": [
+        {
+          "text": "о",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "section": 2,
+      "accentPosition": 9,
+      "word": "водопровод"
+    },
+    {
+      "id": 205,
+      "section": 2,
+      "accentPosition": 9,
+      "word": "газопровод"
+    },
+    {
+      "id": 206,
+      "section": 2,
+      "accentPosition": 11,
+      "word": "мусоропровод"
+    },
+    {
+      "id": 207,
+      "section": 2,
+      "accentPosition": 10,
+      "word": "нефтепровод"
+    },
+    {
+      "id": 208,
+      "section": 1,
+      "accentPosition": 2,
+      "word": "баловень"
+    },
+    {
+      "id": 209,
+      "section": 1,
+      "accentPosition": 2,
+      "word": "бороду"
+    },
+    {
+      "id": 210,
+      "section": 1,
+      "accentPosition": 10,
+      "word": "вероисповедание"
+    },
+    {
+      "id": 211,
+      "section": 1,
+      "accentPosition": 6,
+      "word": "гражданство"
+    },
+    {
+      "id": 212,
+      "section": 1,
+      "accentPosition": 6,
+      "word": "дешевизна"
+    },
+    {
+      "id": 213,
+      "section": 1,
+      "accentPosition": 2,
+      "word": "засуха"
+    },
+    {
+      "id": 214,
+      "section": 1,
+      "accentPosition": 3,
+      "word": "значимость"
+    },
+    {
+      "id": 215,
+      "section": 1,
+      "accentPosition": 4,
+      "word": "корысть"
+    },
+    {
+      "id": 216,
+      "section": 1,
+      "accentPosition": 4,
+      "word": "намерение"
+    },
+    {
+      "id": 217,
+      "section": 1,
+      "accentPosition": 4,
+      "word": "нарост"
+    },
+    {
+      "id": 218,
+      "section": 1,
+      "accentPosition": 2,
+      "word": "недруг"
+    },
+    {
+      "id": 219,
+      "section": 1,
+      "accentPosition": 4,
+      "word": "недуг"
+    },
+    {
+      "id": 220,
+      "section": 1,
+      "accentPosition": 1,
+      "word": "отзыв",
+      "additions": [
+        {
+          "text": "в значении \"отклик\"",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "section": 1,
+      "accentPosition": 4,
+      "word": "отзыв",
+      "additions": [
+        {
+          "text": "в значении \"отмена\"",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "section": 1,
+      "accentPosition": 1,
+      "word": "отрок"
+    },
+    {
+      "id": 223,
+      "section": 1,
+      "accentPosition": 1,
+      "word": "отрочество"
+    },
+    {
+      "id": 224,
+      "section": 1,
+      "accentPosition": 2,
+      "word": "поручни"
+    },
+    {
+      "id": 225,
+      "section": 1,
+      "accentPosition": 5,
+      "word": "приданое"
+    },
+    {
+      "id": 226,
+      "section": 1,
+      "accentPosition": 3,
+      "word": "свекла"
+    },
+    {
+      "id": 227,
+      "section": 1,
+      "accentPosition": 5,
+      "word": "столяр"
+    },
+    {
+      "id": 228,
+      "section": 1,
+      "accentPosition": 4,
+      "word": "щавель"
+    },
+    {
+      "id": 229,
+      "section": 1,
+      "accentPosition": 4,
+      "word": "дефис"
+    },
+    {
+      "id": 230,
+      "section": 1,
+      "accentPosition": 8,
+      "word": "диспансер"
+    },
+    {
+      "id": 231,
+      "section": 1,
+      "accentPosition": 5,
+      "word": "еретик"
+    },
+    {
+      "id": 232,
+      "section": 1,
+      "accentPosition": 6,
+      "word": "жалюзи"
+    },
+    {
+      "id": 233,
+      "section": 1,
+      "accentPosition": 6,
+      "word": "каталог"
+    },
+    {
+      "id": 234,
+      "section": 1,
+      "accentPosition": 6,
+      "word": "квартал"
+    },
+    {
+      "id": 235,
+      "section": 1,
+      "accentPosition": 5,
+      "word": "партер"
+    },
+    {
+      "id": 236,
+      "section": 1,
+      "accentPosition": 4,
+      "word": "цемент"
+    },
+    {
+      "id": 237,
+      "section": 1,
+      "accentPosition": 5,
+      "word": "шасси"
+    },
+    {
+      "id": 238,
+      "section": 1,
+      "accentPosition": 5,
+      "word": "эксперт"
+    },
+    {
+      "id": 239,
+      "section": 1,
+      "accentPosition": 2,
+      "word": "центнер"
+    },
+    {
+      "id": 240,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "бойка"
+    },
+    {
+      "id": 241,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "верна"
+    },
+    {
+      "id": 242,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "гибка"
+    },
+    {
+      "id": 243,
+      "section": 4,
+      "accentPosition": 6,
+      "word": "дешева"
+    },
+    {
+      "id": 244,
+      "section": 4,
+      "accentPosition": 6,
+      "word": "длинна"
+    },
+    {
+      "id": 245,
+      "section": 4,
+      "accentPosition": 6,
+      "word": "звонка"
+    },
+    {
+      "id": 246,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "ловка"
+    },
+    {
+      "id": 247,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "слепа"
+    },
+    {
+      "id": 248,
+      "section": 4,
+      "accentPosition": 4,
+      "word": "цела"
+    },
+    {
+      "id": 249,
+      "section": 4,
+      "accentPosition": 6,
+      "word": "широка"
+    },
+    {
+      "id": 250,
+      "section": 4,
+      "accentPosition": 6,
+      "word": "смазлива"
+    },
+    {
+      "id": 251,
+      "section": 4,
+      "accentPosition": 6,
+      "word": "суетлива"
+    },
+    {
+      "id": 252,
+      "section": 4,
+      "accentPosition": 8,
+      "word": "прозорлива"
+    },
+    {
+      "id": 253,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "прожорлива"
+    },
+    {
+      "id": 254,
+      "section": 4,
+      "accentPosition": 2,
+      "word": "гербовый"
+    },
+    {
+      "id": 255,
+      "section": 4,
+      "accentPosition": 3,
+      "word": "значимый"
+    },
+    {
+      "id": 256,
+      "section": 4,
+      "accentPosition": 2,
+      "word": "кухонный"
+    },
+    {
+      "id": 257,
+      "section": 4,
+      "accentPosition": 1,
+      "word": "отроческий"
+    },
+    {
+      "id": 258,
+      "section": 4,
+      "accentPosition": 3,
+      "word": "сливовый"
+    },
+    {
+      "id": 259,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "зубчатый"
+    },
+    {
+      "id": 260,
+      "section": 4,
+      "accentPosition": 4,
+      "word": "оптовый"
+    },
+    {
+      "id": 261,
+      "section": 4,
+      "accentPosition": 4,
+      "word": "пуховый"
+    },
+    {
+      "id": 262,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "мозаичный"
+    },
+    {
+      "id": 263,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "красивее"
+    },
+    {
+      "id": 264,
+      "section": 4,
+      "accentPosition": 5,
+      "word": "красивейший"
+    },
+    {
+      "id": 265,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "брала"
+    },
+    {
+      "id": 266,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "была"
+    },
+    {
+      "id": 267,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "взяла"
+    },
+    {
+      "id": 268,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "вила"
+    },
+    {
+      "id": 269,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "врала"
+    },
+    {
+      "id": 270,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "гнала"
+    },
+    {
+      "id": 271,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "дала"
+    },
+    {
+      "id": 272,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "драла"
+    },
+    {
+      "id": 273,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "ждала"
+    },
+    {
+      "id": 274,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "жила"
+    },
+    {
+      "id": 275,
+      "section": 3,
+      "accentPosition": 7,
+      "word": "заперла"
+    },
+    {
+      "id": 276,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "звала"
+    },
+    {
+      "id": 277,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "лгала"
+    },
+    {
+      "id": 278,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "лила"
+    },
+    {
+      "id": 279,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "пила"
+    },
+    {
+      "id": 280,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "рвала"
+    },
+    {
+      "id": 281,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "сняла"
+    },
+    {
+      "id": 282,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "клала"
+    },
+    {
+      "id": 283,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "крала"
+    },
+    {
+      "id": 284,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "слала"
+    },
+    {
+      "id": 285,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "включит"
+    },
+    {
+      "id": 286,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "вручит"
+    },
+    {
+      "id": 287,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "звонит"
+    },
+    {
+      "id": 288,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "кровоточит"
+    },
+    {
+      "id": 289,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "наделит"
+    },
+    {
+      "id": 290,
+      "section": 3,
+      "accentPosition": 7,
+      "word": "накренит"
+    },
+    {
+      "id": 291,
+      "section": 3,
+      "accentPosition": 7,
+      "word": "облегчит"
+    },
+    {
+      "id": 292,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "ободрит"
+    },
+    {
+      "id": 293,
+      "section": 3,
+      "accentPosition": 7,
+      "word": "обострит"
+    },
+    {
+      "id": 294,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "одолжит"
+    },
+    {
+      "id": 295,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "окружит"
+    },
+    {
+      "id": 296,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "плодоносит"
+    },
+    {
+      "id": 297,
+      "section": 3,
+      "accentPosition": 7,
+      "word": "повторит"
+    },
+    {
+      "id": 298,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "сверлит"
+    },
+    {
+      "id": 299,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "сорит"
+    },
+    {
+      "id": 300,
+      "section": 3,
+      "accentPosition": 7,
+      "word": "убыстрит"
+    },
+    {
+      "id": 301,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "углубит"
+    },
+    {
+      "id": 302,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "укрепит"
+    },
+    {
+      "id": 303,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "щемит"
+    },
+    {
+      "id": 304,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "дозировать"
+    },
+    {
+      "id": 305,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "озлобить"
+    },
+    {
+      "id": 306,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "оклеить"
+    },
+    {
+      "id": 307,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "опошлить"
+    },
+    {
+      "id": 308,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "осведомить"
+    },
+    {
+      "id": 309,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "отбыть"
+    },
+    {
+      "id": 310,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "откупорить"
+    },
+    {
+      "id": 311,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "принудить"
+    },
+    {
+      "id": 312,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "баловать"
+    },
+    {
+      "id": 313,
+      "section": 3,
+      "accentPosition": 12,
+      "word": "бомбардировать"
+    },
+    {
+      "id": 314,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "гофрировать"
+    },
+    {
+      "id": 315,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "гравировать"
+    },
+    {
+      "id": 316,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "гримировать"
+    },
+    {
+      "id": 317,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "драпировать"
+    },
+    {
+      "id": 318,
+      "section": 3,
+      "accentPosition": 8,
+      "word": "лакировать"
+    },
+    {
+      "id": 319,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "нормировать"
+    },
+    {
+      "id": 320,
+      "section": 3,
+      "accentPosition": 10,
+      "word": "пломбировать"
+    },
+    {
+      "id": 321,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "премировать"
+    },
+    {
+      "id": 322,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "сортировать"
+    },
+    {
+      "id": 323,
+      "section": 3,
+      "accentPosition": 9,
+      "word": "формировать"
+    },
+    {
+      "id": 324,
+      "section": 3,
+      "accentPosition": 2,
+      "word": "черпать"
+    },
+    {
+      "id": 325,
+      "section": 3,
+      "accentPosition": 2,
+      "word": "щелкать"
+    },
+    {
+      "id": 326,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "занять"
+    },
+    {
+      "id": 327,
+      "section": 3,
+      "accentPosition": 2,
+      "word": "занял",
+      "additions": [
+        {
+          "text": "он",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "section": 3,
+      "accentPosition": 2,
+      "word": "заняло",
+      "additions": [
+        {
+          "text": "оно",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "section": 3,
+      "accentPosition": 2,
+      "word": "заняли",
+      "additions": [
+        {
+          "text": "они",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "прибыть"
+    },
+    {
+      "id": 331,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "прибыл",
+      "additions": [
+        {
+          "text": "он",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "прибыло",
+      "additions": [
+        {
+          "text": "оно",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "прибыли",
+      "additions": [
+        {
+          "text": "они",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "section": 3,
+      "accentPosition": 5,
+      "word": "принять"
+    },
+    {
+      "id": 335,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "принял",
+      "additions": [
+        {
+          "text": "он",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "приняло",
+      "additions": [
+        {
+          "text": "оно",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "section": 3,
+      "accentPosition": 3,
+      "word": "приняли",
+      "additions": [
+        {
+          "text": "они",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "начать"
+    },
+    {
+      "id": 339,
+      "section": 3,
+      "accentPosition": 2,
+      "word": "начал",
+      "additions": [
+        {
+          "text": "он",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "section": 3,
+      "accentPosition": 2,
+      "word": "начало",
+      "additions": [
+        {
+          "text": "оно",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "section": 3,
+      "accentPosition": 2,
+      "word": "начали",
+      "additions": [
+        {
+          "text": "они",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "section": 3,
+      "accentPosition": 4,
+      "word": "начаться"
+    },
+    {
+      "id": 343,
+      "section": 3,
+      "accentPosition": 7,
+      "word": "начался",
+      "additions": [
+        {
+          "text": "он",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "началось",
+      "additions": [
+        {
+          "text": "оно",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "section": 3,
+      "accentPosition": 6,
+      "word": "начались",
+      "additions": [
+        {
+          "text": "они",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "section": 5,
+      "accentPosition": 4,
+      "word": "балованный"
+    },
+    {
+      "id": 347,
+      "section": 5,
+      "accentPosition": 2,
+      "word": "загнутый"
+    },
+    {
+      "id": 348,
+      "section": 5,
+      "accentPosition": 2,
+      "word": "занятый"
+    },
+    {
+      "id": 349,
+      "section": 5,
+      "accentPosition": 2,
+      "word": "запертый"
+    },
+    {
+      "id": 350,
+      "section": 5,
+      "accentPosition": 2,
+      "word": "начатый"
+    },
+    {
+      "id": 351,
+      "section": 5,
+      "accentPosition": 3,
+      "word": "прожитый"
+    },
+    {
+      "id": 352,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "занята"
+    },
+    {
+      "id": 353,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "заперта"
+    },
+    {
+      "id": 354,
+      "section": 5,
+      "accentPosition": 8,
+      "word": "заселена"
+    },
+    {
+      "id": 355,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "налита"
+    },
+    {
+      "id": 356,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "начата"
+    },
+    {
+      "id": 357,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "прожита"
+    },
+    {
+      "id": 358,
+      "section": 5,
+      "accentPosition": 4,
+      "word": "занявший"
+    },
+    {
+      "id": 359,
+      "section": 5,
+      "accentPosition": 4,
+      "word": "наливший"
+    },
+    {
+      "id": 360,
+      "section": 5,
+      "accentPosition": 4,
+      "word": "начавший"
+    },
+    {
+      "id": 361,
+      "section": 5,
+      "accentPosition": 5,
+      "word": "проживший"
+    },
+    {
+      "id": 362,
+      "section": 5,
+      "accentPosition": 4,
+      "word": "молящий"
+    },
+    {
+      "id": 363,
+      "section": 5,
+      "accentPosition": 5,
+      "word": "кормящий"
+    },
+    {
+      "id": 364,
+      "section": 5,
+      "accentPosition": 9,
+      "word": "кровоточащий"
+    },
+    {
+      "id": 365,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "включенный"
+    },
+    {
+      "id": 366,
+      "section": 5,
+      "accentPosition": 5,
+      "word": "врученный"
+    },
+    {
+      "id": 367,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "заселенный"
+    },
+    {
+      "id": 368,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "низведенный"
+    },
+    {
+      "id": 369,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "ободренный"
+    },
+    {
+      "id": 370,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "обостренный"
+    },
+    {
+      "id": 371,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "повторенный"
+    },
+    {
+      "id": 372,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "поделенный"
+    },
+    {
+      "id": 373,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "прирученный"
+    },
+    {
+      "id": 374,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "включен"
+    },
+    {
+      "id": 375,
+      "section": 5,
+      "accentPosition": 5,
+      "word": "вручен"
+    },
+    {
+      "id": 376,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "заселен"
+    },
+    {
+      "id": 377,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "низведен"
+    },
+    {
+      "id": 378,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "ободрен"
+    },
+    {
+      "id": 379,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "обострен"
+    },
+    {
+      "id": 380,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "повторен"
+    },
+    {
+      "id": 381,
+      "section": 5,
+      "accentPosition": 6,
+      "word": "поделен"
+    },
+    {
+      "id": 382,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "приручен"
+    },
+    {
+      "id": 383,
+      "section": 5,
+      "accentPosition": 8,
+      "word": "включена"
+    },
+    {
+      "id": 384,
+      "section": 5,
+      "accentPosition": 7,
+      "word": "вручена"
+    },
+    {
+      "id": 385,
+      "section": 5,
+      "accentPosition": 8,
+      "word": "заселена"
+    },
+    {
+      "id": 386,
+      "section": 5,
+      "accentPosition": 9,
+      "word": "низведена"
+    },
+    {
+      "id": 387,
+      "section": 5,
+      "accentPosition": 8,
+      "word": "ободрена"
+    },
+    {
+      "id": 388,
+      "section": 5,
+      "accentPosition": 9,
+      "word": "обострена"
+    },
+    {
+      "id": 389,
+      "section": 5,
+      "accentPosition": 9,
+      "word": "повторена"
+    },
+    {
+      "id": 390,
+      "section": 5,
+      "accentPosition": 8,
+      "word": "поделена"
+    },
+    {
+      "id": 391,
+      "section": 5,
+      "accentPosition": 9,
+      "word": "приручена"
+    },
+    {
+      "id": 392,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "задав"
+    },
+    {
+      "id": 393,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "заняв"
+    },
+    {
+      "id": 394,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "запив"
+    },
+    {
+      "id": 395,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "начав"
+    },
+    {
+      "id": 396,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "отдав"
+    },
+    {
+      "id": 397,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "пожив"
+    },
+    {
+      "id": 398,
+      "section": 6,
+      "accentPosition": 6,
+      "word": "положив"
+    },
+    {
+      "id": 399,
+      "section": 6,
+      "accentPosition": 5,
+      "word": "предав"
+    },
+    {
+      "id": 400,
+      "section": 6,
+      "accentPosition": 5,
+      "word": "прибыв"
+    },
+    {
+      "id": 401,
+      "section": 6,
+      "accentPosition": 6,
+      "word": "прокляв"
+    },
+    {
+      "id": 402,
+      "section": 6,
+      "accentPosition": 5,
+      "word": "создав"
+    },
+    {
+      "id": 403,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "задавшись"
+    },
+    {
+      "id": 404,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "занявшись"
+    },
+    {
+      "id": 405,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "начавшись"
+    },
+    {
+      "id": 406,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "исчерпав"
+    },
+    {
+      "id": 407,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "закупорив"
+    },
+    {
+      "id": 408,
+      "section": 6,
+      "accentPosition": 4,
+      "word": "балуясь"
+    },
+    {
+      "id": 409,
+      "section": 7,
+      "accentPosition": 5,
+      "word": "без умолку"
+    },
+    {
+      "id": 410,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "вовремя"
+    },
+    {
+      "id": 411,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "доверху"
+    },
+    {
+      "id": 412,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "донизу"
+    },
+    {
+      "id": 413,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "досуха"
+    },
+    {
+      "id": 414,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "досыта"
+    },
+    {
+      "id": 415,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "дочиста"
+    },
+    {
+      "id": 416,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "загодя"
+    },
+    {
+      "id": 417,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "засветло"
+    },
+    {
+      "id": 418,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "затемно"
+    },
+    {
+      "id": 419,
+      "section": 7,
+      "accentPosition": 1,
+      "word": "исстари"
+    },
+    {
+      "id": 420,
+      "section": 7,
+      "accentPosition": 3,
+      "word": "крадучись"
+    },
+    {
+      "id": 421,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "поверху"
+    },
+    {
+      "id": 422,
+      "section": 7,
+      "accentPosition": 2,
+      "word": "тотчас"
+    },
+    {
+      "id": 423,
+      "section": 7,
+      "accentPosition": 4,
+      "word": "донельзя"
+    },
+    {
+      "id": 424,
+      "section": 7,
+      "accentPosition": 4,
+      "word": "завидно"
+    },
+    {
+      "id": 425,
+      "section": 7,
+      "accentPosition": 5,
+      "word": "издревле"
+    },
+    {
+      "id": 426,
+      "section": 7,
+      "accentPosition": 4,
+      "word": "надолго"
+    },
+    {
+      "id": 427,
+      "section": 7,
+      "accentPosition": 6,
+      "word": "насквозь"
+    },
+    {
+      "id": 428,
+      "section": 7,
+      "accentPosition": 6,
+      "word": "добела"
+    },
+    {
+      "id": 429,
+      "section": 7,
+      "accentPosition": 8,
+      "word": "докрасна"
+    },
+    {
+      "id": 430,
+      "section": 7,
+      "accentPosition": 8,
+      "word": "досветла"
+    },
+    {
+      "id": 431,
+      "section": 7,
+      "accentPosition": 7,
+      "word": "дотемна"
+    },
+    {
+      "id": 432,
+      "section": 7,
+      "accentPosition": 9,
+      "word": "мастерски"
+    },
+    {
+      "id": 433,
+      "section": 7,
+      "accentPosition": 4,
+      "word": "умно"
+    }
+  ]
+}
